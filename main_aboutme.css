@@ -1,0 +1,45 @@
+body {
+    background-color: #FFFFFF;
+}
+.me{
+  background-color: #000000;
+  overflow: hidden;
+  height: 100px;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Roboto',sans-serif;
+  text-align: center;
+}
+
+.profile{
+  text-decoration: none;
+  color:#7EC7E9;
+  border: 2px solid #7EC7E9;
+  width: 450px;
+  display: block;
+  margin: auto;
+  margin-top: 60px;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  padding: 30px;
+  text-align: center;
+}
+
+.back{
+  text-decoration: none;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+.back .button:hover{
+color: #7EC7E9;
+}
+.back .button{
+  text-align: center;
+  margin-top: 100px;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+}

@@ -1,0 +1,38 @@
+.head{
+  background-color: #000000;
+    overflow: hidden;
+    height: 100px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto',sans-serif;
+}
+.image{
+  text-align: center;
+  margin-top: 80px;
+}
+.image2{
+  text-align: center;
+  margin-top: 60px;
+}
+.back{
+  text-decoration: none;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+  text-align: center;
+  margin-top: 45px;
+}
+.back .button:hover{
+color: #FFFFFF;
+}
+.back .button{
+  text-align: center;
+  margin-top: 45px;
+  color:#7EC7E9;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+}
+body{
+background: url("/Users/macintosh/Desktop/portfolio/pic/sky.jpg") ;
+}

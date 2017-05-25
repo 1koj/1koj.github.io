@@ -1,0 +1,62 @@
+.head{
+  background-color: #000000;
+    overflow: hidden;
+    height: 100px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto',sans-serif;
+}
+.image0{
+  margin-top: 30px;
+}
+.image{
+  text-align: center;
+  margin-top: 30px;
+}
+.image4{
+  text-align: center;
+  margin-top: 30px;
+}
+.image5{
+  text-align: center;
+  margin-top: 30px;
+}
+.image6{
+  text-align: center;
+  margin-top: 30px;
+}
+.image7 {
+  text-align: center;
+  margin-top: 30px;
+}
+.image8{
+  text-align: center;
+  margin-top: 30px;
+}
+.image9{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.back{
+  text-decoration: none;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+  text-align: center;
+  margin-top: 45px;
+}
+.back .button:hover{
+color: #FFFFFF;
+}
+.back .button{
+  text-align: center;
+  margin-top: 45px;
+  color:#7EC7E9;
+  font-size: 25px;
+  font-family: 'Roboto',sans-serif;
+}
+body {
+    background-color:#FFFFFF;
+}
